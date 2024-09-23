@@ -1,4 +1,4 @@
-# INTRODUCE YOURSELVES WITH YOUR NAME, PROGRAM AND FAVORITE FOOD!
+# INTRODUCE YOURSELVES WITH YOUR NAME, YEAR/PROGRAM AND FAVORITE FOOD!
 
-Aryan Roshan - Computer Engineering - Fried Rice
+Aryan Roshan - 2nd Computer Engineering - Fried Rice
 
